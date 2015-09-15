@@ -25,38 +25,6 @@ Aisen微博是新浪微博的第三方客户端，UI遵循Material Design。
  * 多图、gif、长微博预览
  * 等等
 
-## 应用截图
-
-![](https://github.com/wangdan/AisenWeibo/raw/master/resource/aisen1.gif) 
-
-![](https://github.com/wangdan/AisenWeibo/raw/master/resource/aisen2.gif) 
-
-![](https://github.com/wangdan/AisenWeibo/raw/master/resource/aisen3.gif) 
-
-![](https://github.com/wangdan/AisenWeibo/raw/master/resource/aisen4.gif) 
-
-![](https://github.com/wangdan/AisenWeibo/raw/master/resource/aisen5.gif) 
-
-![](https://github.com/wangdan/AisenWeibo/raw/master/resource/aisen6.gif) 
-
-![](https://github.com/wangdan/AisenWeibo/raw/master/resource/aisen7.gif) 
-
-![](https://github.com/wangdan/AisenWeibo/raw/master/resource/aisen8.gif) 
-
-![](https://github.com/wangdan/AisenWeibo/raw/master/resource/git_2.png)
-
-![](https://github.com/wangdan/AisenWeibo/raw/master/resource/git_6.png) 
-
-![](https://github.com/wangdan/AisenWeibo/raw/master/resource/git_4.png) 
-
-![](https://github.com/wangdan/AisenWeibo/raw/master/resource/git_5.png) 
-
-![](https://github.com/wangdan/AisenWeibo/raw/master/resource/git_3.png) 
-
-![](https://github.com/wangdan/AisenWeibo/raw/master/resource/git_7.png) 
-
-![](https://github.com/wangdan/AisenWeibo/raw/master/resource/git_1.png) 
-
 ## 须知
  * 私信、热门微博、热门话题、微博头条都采用内置官方触屏版实现
  * 多图上传、点赞功能没有权限
